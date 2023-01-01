@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+input {
+  width: 60%;
+  padding: 0.8rem;
+}
+.notFouncEmoji {
+  margin: 1rem;
+}
+.translate {
+  margin: 1rem;
+  font-weight: bold;
+}
+span {
+  font-size: 2rem;
+  padding-top: 1rem;
+  padding-right: 1rem;
+  /* background-color: green; */
+}
