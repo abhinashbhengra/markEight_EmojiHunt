@@ -10,4 +10,4 @@ This app is made using ReactJs. Do you find hard to find the meaning of emojis l
  - **Vanilla JavaScript**
  - **ReactJS**
 
-[link![live-project-click-me](https://user-images.githubusercontent.com/49307371/210542487-060edcdb-c3e6-4b9e-8f20-081f3166d5f1.svg)](https://emojihunter.netlify.app/)
+[![live-project-click-me](https://user-images.githubusercontent.com/49307371/210542487-060edcdb-c3e6-4b9e-8f20-081f3166d5f1.svg)](https://emojihunter.netlify.app/)
