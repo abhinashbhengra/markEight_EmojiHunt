@@ -1,5 +1,6 @@
-## Emoji Interpreter ![emoji-hunter](https://user-images.githubusercontent.com/49307371/210542180-cc7834fb-e08a-47a6-be9c-b651201f39b0.svg)
+## Emoji Interpreter 🤪
 
+![emoji-hunter](https://user-images.githubusercontent.com/49307371/210542180-cc7834fb-e08a-47a6-be9c-b651201f39b0.svg)
 ![reactjs](https://user-images.githubusercontent.com/49307371/210542324-8436eb33-598b-43b9-abf5-e4228f7903b3.svg)
 ![javascript](https://user-images.githubusercontent.com/49307371/210542345-7058920b-06cb-4daa-9878-6ec4935aead3.svg)
 
