@@ -5,7 +5,7 @@
 ![javascript](https://user-images.githubusercontent.com/49307371/210542345-7058920b-06cb-4daa-9878-6ec4935aead3.svg)
 
 ##### Description
-This app is made using ReactJs. Do you find hard to find the meaning of emojis like me? Use 'Emoji Hunter' application and see this library with meaning.
+This app is made using ReactJs. Do you find hard to know the meaning of emojis like me? Use 'Emoji Hunter' application and see this library with meaning.
 ##### Language/Framework Used : 
  - **Vanilla JavaScript**
  - **ReactJS**
